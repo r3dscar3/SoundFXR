@@ -3,6 +3,12 @@
     text-align: center;
 }
 
+.btn,
+.btn {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 audio {
     display: block;
     margin: auto;
