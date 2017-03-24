@@ -1,7 +1,7 @@
 $(document).ready(function () {
     var sfxBaseUrl = "./sfx/";
     var songBaseUrl = "./songs/";
-    var sfxAudio = ["thunder-loud.mp3", "telephone_ringing.mp3", "glass_shatter.mp3", "dial_tone.mp3", "Firework-1.wav", "Firework-2.mp3"];
+    var sfxAudio = ["thunder-loud.mp3", "telephone_ringing.mp3", "glass_shatter_2.wav", "dial_tone.mp3", "Firework-1.wav", "Buzzer.wav"];
     var songAudio = ["Circus-music.mp3", "funeral-piano.wav", "airplane.mp3", "rain-thunder.mp3", "mystery-jam.mp3", "park-noises.mp3", "Laurel-and-Hardy.mp3"];
 
     $('.sfx .btn').on('click', function () {
